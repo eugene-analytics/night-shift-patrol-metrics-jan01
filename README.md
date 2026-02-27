@@ -1,4 +1,5 @@
-🔗 Live Report: https://github.com/eugene-analytics/night-shift-patrol-metrics-jan01
+## 🔗 Live Interactive Report
+👉 https://eugene-analytics.github.io/night-shift-patrol-metrics-jan01/
 
 # Night Shift Patrol Metrics — Jan 01, 2026
 
